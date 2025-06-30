@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Begin by configuring roles to manage permission groups. Go to Admin Panel -> Agents -> Roles and create necessary roles like Supreme Admin. Then, set up departments for ticket visibility by navigating to Admin Panel -> Agents -> Departments. Create departments such as SysAdmins, Help Desk, and Networking. Next, configure teams by going to Admin Panel -> Agents -> Teams. Here, you can form teams like Online Banking by pulling agents from different departments.
+Begin by configuring roles to manage permission groups. Navigate to Admin Panel -> Agents -> Roles and create the necessary roles, such as Supreme Admin. Next, set up departments to control ticket visibility by going to Admin Panel -> Agents -> Departments. You can edit existing departments—such as renaming Support to Help Desk—or create new ones like SysAdmins and Networking. After departments are in place, configure cross-functional teams by visiting Admin Panel -> Agents -> Teams. Here, you can create teams like Online Banking by grouping agents from multiple departments.
 <br />
 
 <p>
