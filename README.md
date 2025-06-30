@@ -49,7 +49,7 @@ Adjust ticket creation settings to control who can submit tickets. Go to Admin P
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Add your internal workers as agents through Admin Panel -> Agents -> Add New. For example, assign Jane to the SysAdmins department and John to the Support department. Then, add your external users (customers) by going to Agent Panel -> Users -> Add New and input users such as Karen and Ken.
+Add your internal workers as agents through Admin Panel -> Agents -> Add New. For example, assign Jane to the SysAdmins department and John to the Help Desk department. Then, add your external users (customers) by going to Agent Panel -> Users -> Add New and input users such as Karen and Ken.
 </p>
 <br />
 <p>
